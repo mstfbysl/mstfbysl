@@ -45,6 +45,3 @@
   "Databases": ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
   "Tools": ["Docker", "GitHub Actions", "Nginx", "Zsh", "Postman", "PhpStorm", "VS Code"]
 }
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mstfbysl&show_icons=true&theme=github_dark&hide=stars&count_private=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=mstfbysl&theme=github-dark&hide_border=true" width="48%"/> </p>
