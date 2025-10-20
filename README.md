@@ -34,6 +34,11 @@
 - Automation and intelligent data workflows to remove manual bottlenecks
 - Designing systems ready for long-term growth, not just quick fixes
 
+- ## Latest Project
+
+• [AI ClickHouse Pipeline](https://github.com/mstfbysl/ai-clickhouse-pipeline)  
+AI-powered data processing and analytics pipeline built with ClickHouse. Focused on fast ingestion, efficient querying, and scalable architecture for high-volume datasets.
+
 ## Book a Consultation
 
 You can book a 1:1 consultation with me to discuss automation strategies, backend architecture, or system scaling.
