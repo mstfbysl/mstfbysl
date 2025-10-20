@@ -1,6 +1,4 @@
-# Hi, I'm Mustafa
-
-**Senior Software Engineer** • Node.js | Python | Cloud Architectures • Scalable Systems • API Specialist  
+**Senior Backend Engineer** • Python | Node.js | API Architect • Scalable & Secure Systems  
 [![GitHub followers](https://img.shields.io/github/followers/mstfbysl?label=Follow&style=social)](https://github.com/mstfbysl)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/mustafa-baysal-822171150/)
 
@@ -8,20 +6,30 @@
 
 ## About Me
 
-- Backend-focused engineer specializing in **Node.js** and **Python**
-- Experience designing and building **scalable**, **secure**, and **maintainable** backend systems
-- Skilled in **REST** and **GraphQL API** development, data pipelines, and cloud-native architectures
-- Comfortable across the stack with **React**, **Next.js**, and frontend integration when needed
+- Backend-focused engineer with a strong background in **Python** and **Node.js**
+- Experienced in building **secure**, **high-performance**, and **scalable** backend systems
+- Specialized in **API architectures**, data pipelines, and process automation
+- Skilled at designing systems that are **maintainable**, **documented**, and **built for growth**
 
 ---
 
 ## Tech Stack
 
-```json
+```
 {
-  "Languages": ["JavaScript", "TypeScript", "Python", "SQL"],
-  "Frameworks": ["Node.js", "Express", "FastAPI", "Next.js", "React"],
+  "Languages": ["Python", "JavaScript", "TypeScript", "SQL"],
+  "Frameworks": ["FastAPI", "Flask", "Django", "Node.js", "Express"],
   "Databases": ["PostgreSQL", "MongoDB", "Redis"],
-  "Cloud & DevOps": ["Docker", "CI/CD", "Nginx", "GitHub Actions"],
-  "Tools": ["Zsh", "Postman", "VS Code", "Cursor"]
+  "Cloud & DevOps": ["Docker", "Nginx", "GitHub Actions", "CI/CD"],
+  "Automation & Tools": ["Selenium", "Zapier", "n8n", "Make.com", "Postman", "Zsh"]
 }
+```
+
+---
+
+## What I Focus On
+
+- Backend architectures that scale with clarity and security
+- Building and integrating reliable **APIs** for modern platforms
+- Automation and intelligent data workflows to remove manual bottlenecks
+- Designing systems ready for long-term growth, not just quick fixes
