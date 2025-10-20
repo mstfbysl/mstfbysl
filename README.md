@@ -33,3 +33,9 @@
 - Building and integrating reliable **APIs** for modern platforms
 - Automation and intelligent data workflows to remove manual bottlenecks
 - Designing systems ready for long-term growth, not just quick fixes
+
+## Book a Consultation
+
+You can book a 1:1 consultation with me to discuss automation strategies, backend architecture, or system scaling.
+
+👉 [Book a consultation here](https://www.upwork.com/services/consultation/development-it-mustafa-1942871520929294845)
