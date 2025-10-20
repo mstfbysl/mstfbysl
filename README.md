@@ -36,7 +36,7 @@
 
 ## Latest Project
 
-• [AI ClickHouse Pipeline](https://github.com/mstfbysl/ai-clickhouse-pipeline)  
+[AI ClickHouse Pipeline](https://github.com/mstfbysl/ai-clickhouse-pipeline)  
 AI-powered data processing and analytics pipeline built with ClickHouse. Focused on fast ingestion, efficient querying, and scalable architecture for high-volume datasets.
 
 ## Book a Consultation
